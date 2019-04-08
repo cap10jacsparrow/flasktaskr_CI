@@ -1,0 +1,19 @@
+
+404 error at 26-03-2019 16:07:05: http://localhost:5000/we 
+404 error at 26-03-2019 16:07:27: http://localhost:5000/wow 
+404 error at 26-03-2019 16:07:42: http://localhost:5000/imeanwow 
+404 error at 26-03-2019 16:07:50: http://localhost:5000/imeanwowqqqq 
+404 error at 26-03-2019 16:08:03: http://localhost:5000/meemaw 
+500 error at 26-03-2019 16:09:02: http://localhost:5000/ 
+500 error at 26-03-2019 16:10:20: http://localhost:5000/ 
+404 error at 26-03-2019 16:51:11: http://localhost/this-route-does-not-exist/ 
+404 error at 26-03-2019 17:09:03: http://localhost/this-route-does-not-exist/ 
+500 error at 26-03-2019 17:09:54: http://localhost:5000/api/v1/tasks/11/ 
+500 error at 26-03-2019 17:14:09: http://localhost:5000/api/v1/tasks/11/ 
+500 error at 26-03-2019 17:14:11: http://localhost:5000/api/v1/tasks/11/ 
+500 error at 26-03-2019 17:17:42: http://localhost:5000/api/v1/tasks/1/ 
+500 error at 26-03-2019 17:17:45: http://localhost:5000/api/v1/tasks/1/ 
+500 error at 26-03-2019 17:18:27: http://localhost:5000/api/v1/tasks/1/ 
+500 error at 26-03-2019 17:18:28: http://localhost:5000/api/v1/tasks/1/ 
+404 error at 26-03-2019 17:18:58: http://localhost/this-route-does-not-exist/ 
+404 error at 26-03-2019 17:19:52: http://localhost/this-route-does-not-exist/ 
